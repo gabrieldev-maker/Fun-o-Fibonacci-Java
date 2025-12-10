@@ -1,1 +1,1 @@
-# Fun-o-Fibonacci-Java
+Esse código utiliza a função recursiva Fibonacci, da linguagem Java. Acompanhada da classe BigInteger, utilizada para trabalhar com números maiores do que o normal, esse algoritmo tem como objetivo criar uma sequência Fibonacci, que consiste no próximo termo ser sempre a soma dos sois últimos.
